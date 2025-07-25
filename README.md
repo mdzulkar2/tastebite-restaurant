@@ -14,7 +14,7 @@ A simple and responsive restaurant menu page made using HTML and CSS.
 📞 +91 98765 43210
 
 ## 🔗 Live Site
-🌐 [Click to view](https://mdzulkar2.github.io/tastebite-restaurant/)
+🌐 [Click to view]( https://mdzulkar2.github.io/tastebite-restaurant/)
 
 ## 💻 Tech Stack
 - HTML5
